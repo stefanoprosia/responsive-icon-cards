@@ -44,10 +44,15 @@ ul {
   width: 50px;
 }
 
-.card-body {
+.card-body h2 {
   font-weight: normal;
   margin-top: 1.5rem;
   margin-bottom: 0;
+}
+
+.card-body p {
+  font-weight: lighter;
+  margin-top: 0;
 }
 
 @media only screen and (min-width: 25em) {
